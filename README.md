@@ -94,3 +94,15 @@ Es un Hipopótamo?s
 
 
 Observe cómo el Adivinador va agregando información a su base de conocimientos. De cada intento fallido, el Adivinador “aprende”, de forma que en las siguientes sesiones, la probabilidad de que acierte aumenta.
+
+Ahora bien, se debe considerar que debe hacer el programa cuando se responde afirmativo, por ejemplo, a la pregunta: Si el animal fuera un Rinoceronte cuál sería la respuesta? s
+
+
+El programa a implementar deberá cumplir con las siguientes condiciones:
+
+
+1.	Inicio de sesión: con lo cual, el sistema realizará las preguntas pertinentes para intentar adivinar el animal en el cual piensa el usuario. Una vez que el sistema genere una respuesta, bien sea correcta o incorrecta, se termina la sesión.
+2.	Almacenamiento de la base de conocimientos: tome en cuenta que la base de conocimientos almacenada en un árbol binario debe poder ser guardada en un archivo de texto para que lo aprendido por el Adivinador no se pierda. Cada vez que se inicia el Adivinador, se cargará desde el archivo, la información correspondiente a la base de conocimientos. 
+3.	Interfaz gráfica: debe, además implementar una interfaz gráfica de usuario.
+4.	Mostrar base de conocimientos: el sistema ofrecerá al usuario la opción de poder observar el árbol binario en el que se representa la base de conocimientos. En otras palabras, el usuario podrá ver el diagrama correspondiente al árbol.
+5.	Inicialización de la base de conocimientos: el usuario podrá borrar la base de conocimientos si así lo requiere. 
