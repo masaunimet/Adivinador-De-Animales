@@ -1,0 +1,9 @@
+ladra;cazan;perro
+cazan;es un animal acuatico;Aguila
+es un animal acuatico;son altos;pez
+son altos;Pajaro;Jirafa
+Pajaro;null115;null115
+Jirafa;null115;null115
+pez;null115;null115
+Aguila;null115;null115
+perro;null115;null115
