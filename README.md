@@ -1,5 +1,7 @@
 # Adivinador-De-Animales
 
+----Para su funcionamiento tiene que implementarse en el framework de Java, NetBeans----
+
 Los árboles binarios sirven, entre otras cosas, para ir eligiendo entre opciones que se van agregando en las ramas de forma que las respuestas se almacenan en las hojas, siendo útiles para simular comportamientos y toma de decisiones en sistemas que se basan en inteligencia artificial. 
 
 Implemente un Adivinador de Animales en Java utilizando un árbol binario. Dicho Adivinador podrá ir aprendiendo de los desaciertos que cometa al tratar de adivinar el animal en el cual está pensando el usuario. El Adivinador realizará una serie de preguntas al usuario y en función de las respuestas que este ofrezca, el Adivinador generará una respuesta. Un ejemplo del funcionamiento del Adivinador se muestra a continuación:
